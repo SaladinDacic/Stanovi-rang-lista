@@ -20,3 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1JizP3GwrwpyTeKsx0KzvF7
    `npm run dev`
 # Stanovi-rang-lista
 # Stanovi-rang-lista
+# Stanovi-rang-lista
