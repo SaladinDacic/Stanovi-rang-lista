@@ -2,7 +2,7 @@
   "name": "bodovanje-za-stan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://salindacic.github.io/Stanovi-rang-lista",
+  "homepage": "https://salindacic.github.io/Stanovi-rang-lista/",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
