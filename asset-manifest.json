@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Stanovi-rang-lista/static/css/main.4fd670da.css",
+    "main.js": "/Stanovi-rang-lista/static/js/main.3ca21b20.js",
+    "index.html": "/Stanovi-rang-lista/index.html",
+    "main.4fd670da.css.map": "/Stanovi-rang-lista/static/css/main.4fd670da.css.map",
+    "main.3ca21b20.js.map": "/Stanovi-rang-lista/static/js/main.3ca21b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd670da.css",
+    "static/js/main.3ca21b20.js"
+  ]
+}
